@@ -16,6 +16,7 @@
 
 body.dark-mode {
   background-color: var(--dark-gray-6);
+  color: var(--light-gray-6);
 }
 
 .dark-mode .e93Tn,
