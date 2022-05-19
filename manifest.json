@@ -18,7 +18,9 @@
     }
   },
   "content_scripts": [{
-    "matches": ["https://unsplash.com/*"],
-    "css": ["dark-mode-unsplash.css"]
+    "matches": ["*://unsplash.com/*"],
+    "css": ["dark-mode-unsplash.css"],
+    "js": ["dark-mode-unsplash.js"],
+    "run_at": "document_end"
   }]
 }
