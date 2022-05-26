@@ -34,7 +34,7 @@ body.dark-mode {
 }
 
 .dark-mode a {
-  color: var(--light-gray-5);
+  color: var(--light-gray-4);
 }
 
 .dark-mode input[type="search"]::placeholder {
@@ -132,4 +132,108 @@ body.dark-mode {
 
 .dark-mode .Hg0ti:hover .Glevq {
   fill: var(--light-gray-6);
+}
+
+.dark-mode .tpnTA {
+  color: var(--dark-gray-1);
+}
+
+.dark-mode .WDSSf {
+  color: var(--light-gray-5);
+}
+
+.dark-mode .P7kbd {
+  fill: var(--dark-gray-5);
+}
+
+.dark-mode .Zkqb_,
+.dark-mode .ppE6r {
+  background-color: var(--dark-gray-5);
+}
+
+.dark-mode a.a1ISs,
+.dark-mode a.g6rFO { 
+  background-color: var(--light-gray-6);
+  color: var(--dark-gray-6);
+}
+
+.dark-mode .SX05e {
+  background: linear-gradient(180deg,#fff0,var(--dark-gray-5));
+}
+
+.dark-mode .nC7we {
+  background-color: var(--dark-gray-6);
+}
+
+.dark-mode .Ha8Q_ {
+  background-color: var(--dark-gray-5);
+}
+
+.dark-mode .main__title,
+.dark-mode .post-card--featured .post-card__title,
+.dark-mode .post-card__title,
+.dark-mode .section__title {
+  color: var(--light-gray-6);
+}
+
+.dark-mode .main__subtitle {
+  color: var(--light-gray-5);
+}
+
+.dark-mode .post-card {
+  border-color: var(--dark-gray-3);
+}
+
+.dark-mode .post-card__body {
+  background-color: var(--dark-gray-5);
+}
+
+.dark-mode .post-card__info,
+.dark-mode .footer__logo {
+  color: var(--light-gray-5);
+}
+
+.dark-mode .footer__links a {
+  color: var(--light-gray-4);
+}
+
+.dark-mode .footer__links a:hover {
+  color: var(--light-gray-6);
+}
+
+.dark-mode .btn-outline {
+  background-color: var(--dark-gray-6);
+  color: var(--light-gray-4);
+  border-color: var(--light-gray-4);
+}
+
+.dark-mode .btn-outline:hover {
+  color: var(--light-gray-6);
+  border-color: var(--light-gray-6);
+}
+
+.dark-mode .navigation {
+  background-color: var(--dark-gray-5);
+}
+
+.dark-mode .navigation .navigation__item.active a:not(.btn) {
+  color: var(--light-gray-6);
+}
+
+.dark-mode .navigation a:focus:not(.btn), 
+.dark-mode .navigation a:hover:not(.btn) {
+  color: var(--light-gray-6);
+}
+
+.dark-mode .navigation a:not(.btn) {
+  color: var(--light-gray-4);
+}
+
+.dark-mode .navigation__logo,
+.dark-mode .P0GJI {
+  fill: var(--light-gray-5);
+}
+
+.dark-mode .tBqUo {
+  color: var(--light-gray-4);
 }
